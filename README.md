@@ -8,6 +8,8 @@
 
 **Publication Year:** 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18684203.svg)](https://doi.org/10.5281/zenodo.18684203)
+
 * * *
 
 ## Executive Overview
