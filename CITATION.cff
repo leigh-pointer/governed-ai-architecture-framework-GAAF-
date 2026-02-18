@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "The Governed AI Architecture Framework"
+message: "If you use or reference this framework, please cite it as below."
+authors:
+  - family-names: "Pointer"
+    given-names: "Leigh William Keith"
+year: 2026
+version: 1.0.0
+license: "CC-BY-4.0"
+abstract: >
+  The Governed AI Architecture Framework (GAAF) defines a structural governance model
+  for integrating Artificial Intelligence into enterprise systems without compromising
+  architectural integrity, regulatory alignment, or engineering discipline.
